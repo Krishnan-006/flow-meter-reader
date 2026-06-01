@@ -1,0 +1,8 @@
+myenv/
+__pycache__/
+*.pyc
+videos/
+output/
+*.mp4
+*.avi
+*.csv
